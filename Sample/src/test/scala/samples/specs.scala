@@ -29,5 +29,3 @@ class MySpecTest extends Specification {
     }
   }
 }
-
-/** https://stackoverflow.com/questions/24559236/object-xml-is-not-a-member-of-package-scala */ 
